@@ -1,0 +1,3 @@
+StudentID,RollNo,Name,CourseYear,AdmissionYear,City,AcademicFee,MiscFee,PaidAmount,TotalPayable
+1,1,Dikshita,FYIT,2025,Mumbai,43000,0,0,43000
+2,2,Mittal,FYIT,2025,Mumbai,50000,251,20,50251
